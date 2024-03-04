@@ -1,3 +1,4 @@
+"use client"
 export default function Home() {
   console.log("test deploying");
   return (
